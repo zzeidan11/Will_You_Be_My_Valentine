@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "I'm the luckiest man in the world! I love you forever and always ❤️💝💖💝💓",
         message: "I'm saving a big hug and an even bigger kiss for you!",
-        emojis: "💍💖😚💝☺️❤️💕💓"  // These will bounce around
+        emojis: "💍💖😚💝❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
